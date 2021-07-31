@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": {
+        "item": "mainvideosmod:dias_ore"
+    },
+    "result": "mainvideosmod:blue_ingot",
+    "experience": 100,
+    "cookingtime": 200
+}

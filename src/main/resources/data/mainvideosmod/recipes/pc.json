@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "mmm",
+        "mCm",
+        "mmm"
+    ],
+    "key": {
+        "m": {
+            "item": "mainvideosmod:blue_ingot"
+        },
+        "C": {
+            "item": "minecraft:cobblestone"
+        }
+    },
+    "result": {
+        "item": "mainvideosmod:pc",
+        "count": 1
+    }
+}
